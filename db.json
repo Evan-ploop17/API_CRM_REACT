@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Esteban Salas",
+      "empresa": "Globant",
+      "email": "esteboncarebonbon@hotmail.com",
+      "telefono": 133131313,
+      "notas": "Una practica",
+      "id": 1
+    },
+    {
+      "nombre": "Esteban posada",
+      "empresa": "Globant",
+      "email": "esalas21@uan.edu.co",
+      "telefono": 2345678901,
+      "notas": "Segundo",
+      "id": 2
+    }
+  ]
+}
