@@ -9,6 +9,8 @@ import { VerCliente } from "./pages/VerCliente";
 
 function App() {
 
+  //console.log( import.meta.env.VITE_API_URL )
+
   return (
     <BrowserRouter>
       <Routes>
